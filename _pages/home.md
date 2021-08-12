@@ -62,7 +62,7 @@ We are located at Carleton University, in the beautiful region of Canada's Capit
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from Carleton University and (more to be listed here).
+We are grateful for funding from [(NSERC)](https://www.nserc-crsng.gc.ca/) and from the [(NRC)](https://nrc.canada.ca/en).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
