@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/CU_Campus.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/CU_Campus.jpg" width="90%">
 </figure>
 
 You have reached the webpage of the Carleton University - Quantum Information Technology (CUQuIT) group led by Professor Connor Kupchak. Our research focuses on the development of powerful quantum technologies based light that have applications in the fields of secure communication, sensing, computing.
@@ -34,7 +34,7 @@ This page and group are under active development, please check back regularly fo
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider3.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider3.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider4.jpg" alt="Slide 4" />
@@ -61,6 +61,6 @@ We are located at Carleton University, in the beautiful region of Canada's Capit
 We are grateful for funding from [NSERC](https://www.nserc-crsng.gc.ca/) and from the [NRC](https://nrc.canada.ca/en).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC_logo.jpg">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRC_logo.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC_logo.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRC_logo.jpg" style="width: 210px">
 </figure>
