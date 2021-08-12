@@ -34,7 +34,7 @@ This page and group are under active development, please check back regularly fo
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider3.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider3.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider4.jpg" alt="Slide 4" />
