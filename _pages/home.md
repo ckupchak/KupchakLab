@@ -57,8 +57,6 @@ We are located at Carleton University, in the beautiful region of Canada's Capit
 We are grateful for funding from [NSERC](https://www.nserc-crsng.gc.ca/) and from the [NRC](https://nrc.canada.ca/en).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSERC.jpg">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRC.jpg">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC_logo.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRC_logo.jpg">
 </figure>
