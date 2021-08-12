@@ -1,5 +1,5 @@
 ---
-title: "CUQuIT - Vacancies"
+title: "CUQuIT - Teaching"
 layout: textlay
 excerpt: "Teaching"
 sitemap: false
