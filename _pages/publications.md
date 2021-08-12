@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-You can also find my research contributions on [Google Scholar](https://scholar.google.ca/citations?user=lqDWDJcAAAAJ&hl=en&oi=ao))
+You can also find my research contributions on [Google Scholar](https://scholar.google.ca/citations?user=lqDWDJcAAAAJ&hl=en&oi=ao)
 
 
 ## Preprints
