@@ -2,9 +2,9 @@
   photo: rock.jpg
   info: Assistant Professor, Department of Electronics, Quantum Information Technology
   email: connorkupchak@cunet.carleton.ca
-  number_educ: 3
+  number_educ: 4
   education1: Master 
   education2: PhD 
   education3: Postdoc 
-  education4: 
+  education4: <li><a href="https://twitter.com/ConnorKupchak"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
   education5: 
