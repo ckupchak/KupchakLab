@@ -6,6 +6,10 @@ sitemap: false
 permalink: /
 ---
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/CU_Campus.jpg">
+</figure>
+
 You have reached the webpage of the Carleton University - Quantum Information Technology (CUQuIT) group led by Professor Connor Kupchak. Our research focuses on the development of powerful quantum technologies based light that have applications in the fields of secure communication, sensing, computing.
 
 This page and group are under active development, please check back regularly for updates and potential opportunities.
