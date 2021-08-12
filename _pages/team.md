@@ -189,4 +189,4 @@ permalink: /team/
 
 ## Openings
 
- **We are  looking for new PhD students and Master students to join the team!** [Send us an email to apply] (mailto:connorkupchak@cunet.carleton.ca)!
+ **We are  looking for new PhD students and Master students to join the team!** <a href="mailto:connorkupchak@cunet.carleton.ca">Send us an email to apply</a>!
