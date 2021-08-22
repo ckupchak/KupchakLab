@@ -53,7 +53,7 @@ This page and group are under active development, please check back regularly fo
 
 
 
-TEST We are located at Carleton University, in the beautiful region of Canada's Capital, Ottawa. 
+We are located at Carleton University, in the beautiful region of Canada's Capital, Ottawa. 
 
  **We are  looking for passionate new PhD students and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/team) **!**
 
