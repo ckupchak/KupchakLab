@@ -45,6 +45,20 @@ firstp {
   margin-left: auto;
   max-width: 1000px; /* or 950px */
 }
+ 
+
+  .a {
+    grid-column: 1 / 2;
+    grid-row: 1 /2;
+  }
+  .b {
+    grid-column: 2 ;
+    grid-row: 1 ;
+  }
+  .c {
+    grid-column: 2 ;
+    grid-row: 2 ;
+  }
 
 /* Home, News */
 #newsid p {
