@@ -12,7 +12,10 @@ permalink: /
 
 You have reached the webpage of the Carleton University - Quantum Information Technology (CUQuIT) group led by Professor Connor Kupchak. Our research focuses on the development of powerful quantum technologies based on light that have applications in the fields of secure communication, sensing, computing.
 
-This page and group are under active development, please check back regularly for updates and potential opportunities.
+Our lab is located in VSIM3228A, please contact us if you want to come by and check it out!  Carleton University is situated in the beautiful region of Canada's Capital, Ottawa. 
+
+ **We are  looking for passionate new PhD students and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/team) **!**
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -53,9 +56,6 @@ This page and group are under active development, please check back regularly fo
 
 
 
-We are located at Carleton University, in the beautiful region of Canada's Capital, Ottawa. 
-
- **We are  looking for passionate new PhD students and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/team) **!**
 
 
 We are grateful for funding from [NSERC](https://www.nserc-crsng.gc.ca/) and from the [NRC](https://nrc.canada.ca/en).
