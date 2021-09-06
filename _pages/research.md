@@ -39,7 +39,7 @@ capable of this operation was a quantum interference effect known as electromagn
 (EIT). This coherent, nonlinear effect allows one to modulate the refractive index and slowdown light pulses
 near atomic resonance to the point of stopping them.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/pexels-rfstudio-3825462.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider2.jpg" width="50%">
 </figure>
 
 EIT has shown viable for storing single photons and entangled photons. Atomic ensemble-based systems can be optimized for different metrics depending
@@ -70,3 +70,6 @@ disk resonators fabricated from silicon nitride (Si3N4) are superb candidates fo
 every band can contain multiple bits of data. The frequency spectrum exhibited by Si3N4 can be
 tailored to telecommunication wavelengths for compatibility with industry devices such as wavelength division
 multiplexers for data processing.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider3.jpg" width="50%">
+</figure>
