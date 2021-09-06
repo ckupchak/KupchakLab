@@ -1,10 +1,11 @@
 - name: Connor Kupchak
   photo: Connor_Kupchak.jpg
-  info: Assistant Professor, Department of Electronics, Quantum Information Technology
+  info: Assistant Professor, Department of Electronics
   email: connorkupchak@cunet.carleton.ca
-  number_educ: 4
-  education1: Master, Medical Biophysics, Western University, London, Ontario, Canada
-  education2: Ph.D. Physics, University of Calgary, Alberta, Canada
-  education3: Postdoctoral associate, Department of Physics and Astronomy, Stony Brook University, NY
-  education4: Postdoctoral Fellow, Secure and Disruptive Technologies, National Research Concil & UOttawa
-  education5: 
+  number_educ: 6
+  education1: B.Sc. (Hons.) Physics, Universty of Manitoba 
+  education2: M.Sc., Medical Biophysics, Western University 
+  education3: Ph.D. Physics, University of Calgary
+  education4: Postdoctoral Associate,Stony Brook University
+  education5: Postdoctoral Fellow, Secure and Disruptive Technologies, National Research Concil & UOttawa
+  
