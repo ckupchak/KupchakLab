@@ -9,7 +9,7 @@
 title: cuQIT LAb
 email: connor.kupchak@carleton.ca
 description: > # this means to ignore newlines until "baseurl:"
-  The official site of UVAMO: the University of Victoria AMO Lab
+  The official site of the Carleton University Quantum Information Technology Lab (cuQIT)
 baseurl: "https://doe.carleton.ca/~connorkupchak"
 url: ""
 
