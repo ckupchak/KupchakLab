@@ -40,7 +40,7 @@ capable of this operation was a quantum interference effect known as electromagn
 near atomic resonance to the point of stopping them.
 
 <figure>
-<img align="center" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider2.jpg" width="50%">
+<img style="float:center" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider2.jpg" width="50%">
 </figure>
 
 
