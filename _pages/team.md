@@ -1,6 +1,6 @@
 ---
 title: "cuQIT - Team"
-layout: gridlay
+layout: textlay
 excerpt: "cuQIT: Team members"
 sitemap: false
 permalink: /team/
