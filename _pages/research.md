@@ -38,6 +38,9 @@ control laser fields  that mediates the storage and retrieval operations. Of the
 capable of this operation was a quantum interference effect known as electromagnetically induced transparency
 (EIT). This coherent, nonlinear effect allows one to modulate the refractive index and slowdown light pulses
 near atomic resonance to the point of stopping them.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/pexels-rfstudio-3825462.jpg" width="95%">
+</figure>
 
 EIT has shown viable for storing single photons and entangled photons. Atomic ensemble-based systems can be optimized for different metrics depending
 on the application Warm vapour systems hold a distinct advantage in terms of practicality, a vapour cell system operates in a temperature
