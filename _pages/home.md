@@ -1,7 +1,7 @@
 ---
-title: "CUQuIT Lab - Home"
+title: "cuQIT Lab - Home"
 layout: homelay
-excerpt: "Carleton University Quantum Information Technologies (CUQuIT)"
+excerpt: "Carleton University Quantum Information Technologies (cuQIT)"
 sitemap: false
 permalink: /
 ---
@@ -10,7 +10,7 @@ permalink: /
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/CU_Campus.jpg" width="95%">
 </figure>
 
-You have reached the webpage of the Carleton University - Quantum Information Technology (CUQuIT) group led by Professor Connor Kupchak. Our research focuses on the development of powerful quantum technologies based on light that have applications in the fields of secure communication, sensing, computing.
+You have reached the homepage of the Carleton University - Quantum Information Technology (cuQIT) group led by Professor Connor Kupchak. Our research focuses on the developing quantum technologies based on light that will one day comprise the future quantum internet.
 
 Our lab is located in VSIM3228A, please contact us if you want to come by and check it out!  Carleton University is situated in the beautiful region of Canada's Capital, Ottawa. 
 
