@@ -1,7 +1,7 @@
 ---
-title: "CUQuIT - Research"
+title: "cuQIT - Research"
 layout: textlay
-excerpt: "CUQuIT - Research"
+excerpt: "cuQIT - Research"
 sitemap: false
 permalink: /research/
 ---
