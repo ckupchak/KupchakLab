@@ -14,7 +14,7 @@ You have reached the homepage of the Carleton University - Quantum Information T
 
 Our lab is located in VSIM3228A, please contact us if you want to come by and check it out!  Carleton University is situated in Canada's beautiful Capital region, Ottawa. 
 
- **We are  looking for passionate new PhD students and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/team) **!**
+ **We are currently looking for new PhD students and Master students to join us!** [(more info)]({{ site.url }}{{ site.baseurl }}/team) **!**
 
 
 
