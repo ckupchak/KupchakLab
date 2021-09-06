@@ -1,7 +1,7 @@
 ---
-title: "CUQuIT - Publications"
+title: "cuQIT - Publications"
 layout: gridlay
-excerpt: "CUQuIT - Publications."
+excerpt: "cuQIT - Publications."
 sitemap: false
 permalink: /publications/
 ---
