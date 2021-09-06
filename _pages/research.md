@@ -58,3 +58,12 @@ numerous successful QKD implementations.
 
 When QKD schemes are transitioned to real-world networks they will likewise need to smoothly and successfully integrate with metropolitan fibre systems, with many groups already pursuing this objective. Our group aims to develop and test quantum communication schemes that interface state-ofthe-
 art telecommunication devices with quantum state measurement techniques. Specifically, commercial phase amplitude modulations have the ideal functionality for continuous variable QKD (CVQKD) encoding. This QKD method uses data encoding based on localizing electric field  fluctuations to specific phase and amplitude values. The field of a quantum state can be measured using a balanced homodyne detection (BHD) technique. Processing BHD data characterizes the quantum state in the same phase space used for telecommunications encoding.
+
+### New species of quantum photonic devices based on silicon nitride
+The bandwidth of QKD can be increased by utilizing multiple photonic degrees of freedom (DOF) just as
+the telecommunications industry does (i.e. greater DOF translates to higher information capacity). Photonic
+disk resonators fabricated from silicon nitride (Si3N4) are superb candidates for this DOF requirement. These
+`microdisks' exhibit numerous of distinguishable yet coherent, frequency bands (frequency comb) where
+every band can contain multiple bits of data. The frequency spectrum exhibited by Si3N4 can be
+tailored to telecommunication wavelengths for compatibility with industry devices such as wavelength division
+multiplexers for data processing.
