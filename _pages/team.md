@@ -55,11 +55,11 @@ permalink: /team/
   {% endif %}
 
   </ul>
-</div>
 
 
 {% endfor %}
 
+</div>
 
 
 ## Openings
