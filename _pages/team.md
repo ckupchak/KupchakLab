@@ -59,6 +59,10 @@ permalink: /team/
 
 {% endfor %}
 
+{% if even_odd == 0 %}
+<\div>
+{% endif %}
+    
 </div>
 
 
