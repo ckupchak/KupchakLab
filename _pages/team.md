@@ -52,6 +52,9 @@ permalink: /team/
 
   </ul>
 </div>
+  
+ {% endfor %} 
+  
 </div>
 
 
