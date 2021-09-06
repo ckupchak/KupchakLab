@@ -10,7 +10,7 @@ title: cuQIT Lab
 email: connor.kupchak@carleton.ca
 description: > # this means to ignore newlines until "baseurl:"
   The official site of the Carleton University Quantum Information Technology Lab (cuQIT)
-baseurl: "https://doe.carleton.ca/~connorkupchak"
+baseurl: "/KupchakLab" #"https://doe.carleton.ca/~connorkupchak"
 url: ""
 
 include:
