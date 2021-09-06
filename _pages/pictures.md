@@ -1,7 +1,7 @@
 ---
-title: "CUQuIT - Pictures"
+title: "cuQIT - Pictures"
 layout: piclay
-excerpt: "CUQuIT - Pictures"
+excerpt: "cuQIT - Pictures"
 permalink: /pictures/
 ---
 
