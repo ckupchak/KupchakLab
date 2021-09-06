@@ -21,5 +21,5 @@ ELEC-3105: Winter 2021
 ELEC-2501: Fall 2020, Summer 2022
 4th Year Project: 2020-2021
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/CU_Campus.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/pexels-rfstudio-3825462.jpg" width="95%">
 </figure>
