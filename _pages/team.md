@@ -57,7 +57,7 @@ permalink: /team/
 
 {% endfor %}
 
-
+</div>
 
 ## Openings
 
