@@ -11,9 +11,9 @@ email: connor.kupchak@carleton.ca
 description: > # this means to ignore newlines until "baseurl:"
   The official site of the Carleton University Quantum Information Technology Lab (cuQIT)
 
-#repository               : "ckupchak.github.io/cuQIT/"
-baseurl: "https://doe.carleton.ca/~connorkupchak"
-url: ""
+repository               : "ckupchak.github.io/cuQIT/"
+#baseurl: "https://doe.carleton.ca/~connorkupchak"
+#url: ""
 
 include:
   - _pages
