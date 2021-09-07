@@ -9,9 +9,9 @@
   education4: Postdoc. Assoc., Stony Brook
   education5: Postdoc. Fellow, SDT, NRC & UOttawa
   
-#- name: Abubaker Tareki
-#  photo: rock.jpg
-#  info: Postdoc, started Aug 2021
+- name: Abubaker Tareki
+  photo: rock.jpg
+  info: Postdoc, started Aug 2021
   #email: 
   #number_educ: 3
  # education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
