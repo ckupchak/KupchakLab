@@ -71,9 +71,6 @@ permalink: /team/
 {% endif %}
 
 
-
-
-
 ## Alumni
 
 {% assign number_printed = 0 %}
