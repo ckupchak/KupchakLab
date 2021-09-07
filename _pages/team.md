@@ -1,7 +1,7 @@
 ---
-title: "CUQuIT - Team"
+title: "cuQIT - Team"
 layout: gridlay
-excerpt: "CUQuIT: Team members"
+excerpt: "cuQIT: Team members"
 sitemap: false
 permalink: /team/
 ---
