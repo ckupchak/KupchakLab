@@ -54,7 +54,6 @@ permalink: /team/
   {% endif %}
 
   </ul>
-#</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
