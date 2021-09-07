@@ -59,7 +59,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
 
  
-</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -74,7 +73,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 #</div>
 #{% endif %}
 
-
+#</div>
 
 
 ## Alumni
