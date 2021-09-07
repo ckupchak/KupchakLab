@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-### Current
+## Current
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -70,7 +70,7 @@ permalink: /team/
 {% endif %}
 
 
-### Alumni
+## Alumni
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
@@ -103,6 +103,6 @@ permalink: /team/
 {% endif %}
 
 
-### Openings
+## Openings
 
  **We are  looking for new PhD and Master students to join the team!** <a href="mailto:connorkupchak@cunet.carleton.ca">Send us an email to apply</a>!
