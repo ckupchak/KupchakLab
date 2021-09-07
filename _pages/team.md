@@ -56,15 +56,11 @@ permalink: /team/
 
   </ul>
 </div>
-
-
 {% endfor %}
-
-
 </div>
 
-## Alumni
 
+## Alumni
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
