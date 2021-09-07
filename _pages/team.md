@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-## Current
+### Current
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -60,7 +60,7 @@ permalink: /team/
 </div>
 
 
-## Alumni
+### Alumni
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
