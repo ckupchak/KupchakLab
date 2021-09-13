@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/CU_Campus.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/cuQITCarletonCampus.jpg" width="95%">
 </figure>
 
 You have reached the homepage of the Carleton University - Quantum Information Technology (cuQIT) group led by Professor Connor Kupchak. Our research focuses on the developing light-based quantum technologies to serve as the components of the future quantum internet.
