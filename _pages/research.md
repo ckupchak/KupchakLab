@@ -8,9 +8,9 @@ permalink: /research/
 
 # Research
 
-This group is undertaking multiple research projects in developing quantum communication devices and practical quantum memory buffers. Such innovative devices will have major implications in future quantum networks capable of many powerful operations.  The most immediate being full secure data encryption through quantum key distribution
+Our group pursues multiple projects focused on the development of quantum communication devices and practical quantum memory buffers using light. The end goal is that these devices will serve as the components that will comprise the quantum networks of the not too distant future.  These networks will be capable of many powerful applications including fully secure data encryption through quantum key distribution.
 
-Our long term vision for the laboratory involves contributing to the training of students and personnel with a unique quantum skill set. This means opening our lab doors to upper-year engineering projects, where students will use tools and devices that they will likely encounter as future quantum communications engineers. We believe that the field of quantum communications is quickly transitioning from a research field into an engineering discipline and that this is already creating an increasing demand for trained personnel.
+The field of quantum communications is presently at a stage of transition from a research field into an engineering discipline and bring force a demand personnel trained with a unique sill set.  Hence, our lab is aldedicated to training and mentoring of students to enter the future quantum workforce. Projects will allow students to become trained and skilled tools and devices that they will encounter as future quantum communications engineers. 
 
 ### Robust Quantum Memory Systems for Real-World Deployment
 
@@ -33,22 +33,21 @@ However a system proven capable of wide-scale deployment remains elusive.
 
 A promising optical QM candidate are atomic ensembles, typically the alkali metals of rubidium or cesium. The
 storage occurs by conditioning the resonances of these elements to map the excitations of a weak electromagnetic
-field ( s) to the collective nature of atoms in a coherent and reversible fashion. This often requires additional
-control laser fields  that mediates the storage and retrieval operations. Of the first techniques shown
+field to the collective nature of atoms in a coherent and reversible fashion. This often requires additional
+control laser fields that mediate the storage and retrieval operations. Of the first techniques shown
 capable of this operation was a quantum interference effect known as electromagnetically induced transparency
 (EIT). This coherent, nonlinear effect allows one to modulate the refractive index and slowdown light pulses
 near atomic resonance to the point of stopping them.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider2.jpg){: style="width: 50%; float: center; margin: 0px  10px"}
 
-EIT has shown viable for storing single photons and entangled photons. Atomic ensemble-based systems can be optimized for different metrics depending
-on the application Warm vapour systems hold a distinct advantage in terms of practicality, a vapour cell system operates in a temperature
+EIT has shown viable for storing single and entangled photons. Atomic ensemble-based systems can be optimized for different metrics depending
+on the application.  Warm vapour systems hold a distinct advantage in terms of practicality, a vapour cell system operates in a
 controlled environment near room temperature. The simplistic, low overhead implementation in combination
 with their proven QM operation make vapour cells ideal candidates for wide-scale deployment.
 
 The remaining key piece is the engineering of these QM systems to a modular form that would be suitable for
-wide-scale deployment to numerous nodes of a quantum network. This task of compacting a QM system into
-a modular form suitable for operation in the field is ongoing by my collaborators at Qunnect.
+wide-scale deployment to numerous nodes of a quantum network. This task is presently being pursued by my collaborators at Qunnect (Brooklyn, NY).
 
 ### High bandwidth quantum protocols using commercial components
 Data encryption and transmission with security verified by quantum mechanical laws would have implications
@@ -58,8 +57,7 @@ shared between two separated but trusted parties (or i.e. ends of a transmission
 as quantum key distribution QKD. The versatility and degrees of freedom characteristic of light has led to
 numerous successful QKD implementations.
 
-When QKD schemes are transitioned to real-world networks they will likewise need to smoothly and successfully integrate with metropolitan fibre systems, with many groups already pursuing this objective. Our group aims to develop and test quantum communication schemes that interface state-ofthe-
-art telecommunication devices with quantum state measurement techniques. Specifically, commercial phase amplitude modulations have the ideal functionality for continuous variable QKD (CVQKD) encoding. This QKD method uses data encoding based on localizing electric field  fluctuations to specific phase and amplitude values. The field of a quantum state can be measured using a balanced homodyne detection (BHD) technique. Processing BHD data characterizes the quantum state in the same phase space used for telecommunications encoding.
+When QKD schemes are transitioned to real-world networks they will need to smoothly and successfully integrate with metropolitan fibre systems. Our group aims to develop and test quantum communication schemes that interface state-of-the-art telecommunication devices with quantum state measurement techniques. Specifically, commercial phase amplitude modulations have the ideal functionality for continuous variable QKD (CVQKD) encoding. This QKD method uses data encoding based on localizing electric field fluctuations to specific phase and amplitude values. The field of a quantum state can be measured using a balanced homodyne detection (BHD) technique which processes  data characterizes the quantum state in the same phase space used for telecommunications encoding.
 
 ### New species of quantum photonic devices based on silicon nitride
 The bandwidth of QKD can be increased by utilizing multiple photonic degrees of freedom (DOF) just as
