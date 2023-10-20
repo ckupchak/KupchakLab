@@ -10,7 +10,7 @@ permalink: /research/
 
 Our group pursues multiple projects focused on the development of quantum communication devices and practical quantum memory buffers using light. The end goal is that these devices will serve as the components that will comprise the quantum networks of the not too distant future.  These networks will be capable of many powerful applications including fully secure data encryption through quantum key distribution.
 
-The field of quantum communications is presently at a stage of transition from a research field into an engineering discipline and bring force a demand personnel trained with a unique sill set.  Hence, our lab is aldedicated to training and mentoring of students to enter the future quantum workforce. Projects will allow students to become trained and skilled tools and devices that they will encounter as future quantum communications engineers. 
+Quantum communications has reached an exciting point with quantum devices advancing to more robust and deployable forms.  Our lab is dedicated to training and mentoring of the HQP who will one day enter the future quantum workforce. Our projects specialize in training HQP to acquire the skills and tools that will benefit them as future quantum communications engineers. 
 
 ### Robust Quantum Memory Systems for Real-World Deployment
 
