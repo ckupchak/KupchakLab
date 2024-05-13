@@ -3,8 +3,9 @@ title: "cuQIT - Teaching"
 layout: textlay
 excerpt: "Teaching"
 sitemap: false
-permalink: /teaching
+permalink: /teaching/
 ---
+
 
 ## Current
 
