@@ -17,7 +17,7 @@ Winter 2022:    ELEC-3105
 
 ## Past
 
-ELEC-3105: Winter 2021
+ELEC-3105: Winter 2021 Test
 
 ELEC-2501: Fall 2020, Summer 2022
 
