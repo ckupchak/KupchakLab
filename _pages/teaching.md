@@ -8,20 +8,22 @@ permalink: /teaching
 
 ## Current
 
-Fall 2021:      ELEC-2501
+Spring 2024: ELEC2501 Circuits and Signals
 
+Fall 2024: ELEC2501 Circuits and Signals
 
-Winter 2022:    ELEC-3105
-
-2021-2022: 4th year project supervision
 
 ## Past
 
-ELEC-3105: Winter 2021 Test
+ELEC3105 Basica EM and Power: Winter 2021, 2022, 2023
 
-ELEC-2501: Fall 2020, Summer 2022
+ELEC2501 Circuits and Signals: Fall 2020, 2021, 2022, Spring 2023
 
-4th Year Project: 2020-2021
+ELEC4907 4th Year Project: 2020-2024
+
+ELEC5703P Introduction to Quantum Communications: Winter 2024
+
+
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/pexels-rfstudio-3825462.jpg" width="95%">
 </figure>
