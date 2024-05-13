@@ -10,7 +10,7 @@ permalink: /
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/cuQITCarletonCampus.jpg" width="95%">
 </figure>
 
- WE SUCK!!! You have reached the homepage of the Carleton University - Quantum Information Technology (cuQIT) group led by Professor Connor Kupchak. Our research focuses on the development of light-based quantum technologies to serve as the components of the future quantum internet.
+You have reached the homepage of the Carleton University - Quantum Information Technology (cuQIT) group led by Professor Connor Kupchak. Our research focuses on the development of light-based quantum technologies to serve as the components of the future quantum internet.
 
 Our lab is located in VSIM3228A, please contact us if you want to come by and check it out!  Carleton University is situated in Canada's beautiful Capital region, Ottawa ON. 
 
