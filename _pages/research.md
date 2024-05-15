@@ -8,65 +8,51 @@ permalink: /research/
 
 # Research
 
-Our group pursues multiple projects focused on the development of quantum communication devices and practical quantum memory buffers using light. The end goal is that these devices will serve as the components that will comprise the quantum networks of the not too distant future.  These networks will be capable of many powerful applications including fully secure data encryption through quantum key distribution.
+Our group focuses on several projects aimed at developing quantum communication devices and practical quantum memory buffers utilizing light. The ultimate goal is for these devices to form the building blocks of future quantum networks, capable of facilitating various powerful applications, including fully secure data encryption through quantum key distribution (QKD).
 
-Quantum communications has reached an exciting point with quantum devices advancing to more robust and deployable forms.  Our lab is dedicated to training and mentoring of the HQP who will one day enter the future quantum workforce. Our projects specialize in training HQP to acquire the skills and tools that will benefit them as future quantum communications engineers. 
+Quantum communications has reached an exciting stage, with quantum devices evolving into more robust and deployable forms. Our lab is dedicated to training and mentoring the next generation of researchers who will play vital roles in the future quantum workforce. Our projects specialize in equipping HQP with the skills and tools necessary for their roles as future quantum communications engineers.
 
 ### Robust Quantum Memory Systems for Real-World Deployment
 
-Similar to a classical communication network, the transmission backbone of the quantum version will be based
-on photonics and light. The major elements necessary for a practical long-distance quantum network include i) a
-dependable source of light encoded with quantum information such as single photons, ii) a transmission channel
-compatible with the wavelengths of the source, iii) practical and well-understood detection techniques/schemes
-and iv) a robust optical quantum memory device with suficient operating characteristics. While these facets
-individually require a significant amount of attention, they will ultimately need to "speak to" one another and
-smoothly integrate into telecommunication systems for a real-world quantum network to be realized.
+Similar to classical communication networks, the backbone of quantum networks relies on photonics and light transmission. Key components for a practical long-distance quantum network include:
 
-The last element listed, an optical quantum memory (QM) presents quite a challenge. Such a device is crucial to
-transmit quantum light over trans-continental distances and serves as the quantum analog to classical amplifiers
-used in undersea optical fibres to regenerate classical signals at intermediate stages. Any optical QM device needs
-to capture, hold and release light states/photons on demand, all while preserving the quantum nature of the light
-states. In other words, a QM must indiscriminately receive an arbitrary quantum state without ever knowing
-what it is but, ideally, would know that `some state' is present. In the immediate future QM devices will have major implications for extending real-world
-QKD through a technique called measurement device independent QKD and quantum teleportation.
-However a system proven capable of wide-scale deployment remains elusive.
+  (i)  A reliable source of light encoded with quantum information, such as single photons.
+  (ii)  A transmission channel compatible with the wavelengths of the light source.
+  (iii) Practical and well-understood detection techniques/schemes.
+  (iv) A robust optical quantum memory device with sufficient operating characteristics.
 
-A promising optical QM candidate are atomic ensembles, typically the alkali metals of rubidium or cesium. The
-storage occurs by conditioning the resonances of these elements to map the excitations of a weak electromagnetic
-field to the collective nature of atoms in a coherent and reversible fashion. This often requires additional
-control laser fields that mediate the storage and retrieval operations. Of the first techniques shown
-capable of this operation was a quantum interference effect known as electromagnetically induced transparency
-(EIT). This coherent, nonlinear effect allows one to modulate the refractive index and slowdown light pulses
-near atomic resonance to the point of stopping them.
+While each of these components demands significant attention individually, they must ultimately integrate seamlessly into telecommunication systems for a real-world quantum network to materialize.
+
+The last element mentioned, an optical quantum memory (QM), poses a considerable challenge. This device is essential for transmitting quantum light over transcontinental distances and serves as the quantum equivalent of classical amplifiers used in undersea optical fibers. An optical QM must capture, hold, and release light states/photons on demand while preserving their quantum nature. This requires the QM to receive an arbitrary quantum state without knowing its content, ideally detecting the presence of 'some state.'
+
+In the immediate future, QM devices will significantly impact real-world QKD through techniques like measurement device-independent QKD and quantum teleportation. However, achieving a system capable of wide-scale deployment remains elusive.
+
+A promising candidate for an optical QM is atomic ensembles, typically composed of alkali metals like rubidium or cesium. These systems store light by conditioning the resonances of these elements, mapping electromagnetic field excitations to the collective behavior of atoms in a coherent and reversible manner. This often involves additional control laser fields that mediate storage and retrieval operations.
+
+One of the first techniques capable of this operation is a quantum interference effect known as electromagnetically induced transparency (EIT). EIT allows modulation of the refractive index, slowing down light pulses near atomic resonance to the point of stopping them.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider2.jpg){: style="width: 50%; float: center; margin: 0px  10px"}
 
-EIT has shown viable for storing single and entangled photons. Atomic ensemble-based systems can be optimized for different metrics depending
-on the application.  Warm vapour systems hold a distinct advantage in terms of practicality, a vapour cell system operates in a
-controlled environment near room temperature. The simplistic, low overhead implementation in combination
-with their proven QM operation make vapour cells ideal candidates for wide-scale deployment.
+EIT has proven effective for storing single and entangled photons. Atomic ensemble-based systems, particularly warm vapor systems, offer practical advantages due to their operation near room temperature. Their simplistic implementation and proven QM operation make them ideal for wide-scale deployment.
 
-The remaining key piece is the engineering of these QM systems to a modular form that would be suitable for
-wide-scale deployment to numerous nodes of a quantum network. This task is presently being pursued by my collaborators at Qunnect (Brooklyn, NY).
-
-### High bandwidth quantum protocols using commercial components
-Data encryption and transmission with security verified by quantum mechanical laws would have implications
-spanning many sectors including financial banking, national defence, online commerce and data privacy. For this
-unconditional security to become a reality, a specialized encryption key verified by quantum statistics must be
-shared between two separated but trusted parties (or i.e. ends of a transmission line) and is commonly known
-as quantum key distribution QKD. The versatility and degrees of freedom characteristic of light has led to
-numerous successful QKD implementations.
-
-When QKD schemes are transitioned to real-world networks they will need to smoothly and successfully integrate with metropolitan fibre systems. Our group aims to develop and test quantum communication schemes that interface state-of-the-art telecommunication devices with quantum state measurement techniques. Specifically, commercial phase amplitude modulations have the ideal functionality for continuous variable QKD (CVQKD) encoding. This QKD method uses data encoding based on localizing electric field fluctuations to specific phase and amplitude values. The field of a quantum state can be measured using a balanced homodyne detection (BHD) technique which processes  data characterizes the quantum state in the same phase space used for telecommunications encoding.
+The remaining challenge lies in engineering QM systems into a modular form suitable for deployment across numerous nodes of a quantum network. This task is currently underway with our collaborators at Qunnect (Brooklyn, NY).
 
 ### New species of quantum photonic devices based on silicon nitride
-The bandwidth of QKD can be increased by utilizing multiple photonic degrees of freedom (DOF) just as
-the telecommunications industry does (i.e. greater DOF translates to higher information capacity). Photonic
-disk resonators fabricated from silicon nitride (Si3N4) are superb candidates for this DOF requirement. These
-`microdisks' exhibit numerous of distinguishable yet coherent, frequency bands (frequency comb) where
-every band can contain multiple bits of data. The frequency spectrum exhibited by Si3N4 can be
-tailored to telecommunication wavelengths for compatibility with industry devices such as wavelength division
-multiplexers for data processing.
+Increasing the bandwidth of QKD can be achieved by utilizing multiple photonic degrees of freedom (DOF), similar to the telecommunications industry. Photonic disk resonators fabricated from silicon nitride (Si3N4) are excellent candidates for this purpose. These 'microdisks' exhibit numerous coherent frequency bands (frequency comb), each capable of containing multiple bits of data. The frequency spectrum of Si3N4 can be tailored to telecommunication wavelengths, ensuring compatibility with industry devices such as wavelength division multiplexers for data processing."
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider3.jpg" width="50%">
 </figure>
+
+### High bandwidth quantum protocols using commercial components
+Data encryption and transmission secured by quantum mechanical laws hold implications across various sectors, including finance, defense, e-commerce, and data privacy. Achieving unconditional security requires sharing a specialized encryption key verified by QKD.
+
+As QKD schemes transition to real-world networks, they must seamlessly integrate with metropolitan fiber systems. Our group aims to develop and test quantum communication schemes that interface state-of-the-art telecommunication devices with quantum state measurement techniques.  Specifically, commercial phase amplitude modulations have the ideal functionality for continuous variable QKD (CVQKD) encoding. This QKD method uses data encoding based on localizing electric field fluctuations to specific phase and amplitude values. The field of a quantum state can be measured using a balanced homodyne detection (BHD) technique which processes data, characterizes the quantum state in the same phase space used for telecommunications encoding.
+
+
+
+
+
+
+
+
+
