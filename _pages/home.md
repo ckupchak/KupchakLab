@@ -74,7 +74,7 @@ Our lab is located in VSIM3228A, please contact us if you want to come by and ch
 
 
 
-We are grateful for funding from [NSERC](https://www.nserc-crsng.gc.ca/) and from the [NRC-HTSN Program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/high-throughput-secure-networks-challenge-program),[NRC-QSP Program]([https://nrc.canada.ca/en/research-development/research-collaboration/programs/high-throughput-secure-networks-challenge-program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/internet-things-quantum-sensors-challenge-program), [CFI-JELF](https://www.innovation.ca/apply-manage-awards/funding-opportunities/john-r-evans-leaders-fund).
+We are grateful for funding from [NSERC](https://www.nserc-crsng.gc.ca/) and from the [NRC-HTSN Program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/high-throughput-secure-networks-challenge-program),[NRC-QSP Program](https://nrc.canada.ca/en/research-development/research-collaboration/programs/internet-things-quantum-sensors-challenge-program), [CFI-JELF](https://www.innovation.ca/apply-manage-awards/funding-opportunities/john-r-evans-leaders-fund).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC_logo.jpg" style="width: 180px">
