@@ -16,7 +16,7 @@ You can also find our research contributions on [Google Scholar](https://scholar
 
 A. Tareki, C. Kupchak, K. Mnaymneh<br />
 <em> The Influence of Deposition Temperature and Material Stress on Low-Loss Silicon Nitride Films for Integrated Quantum Optics</em><br /> 
-<a href="https://ieeexplore.ieee.org/document/10146373/similar#similar">IEEE Photonics Journal, vol. 15, no. 4, pp. 1-7,( 2023) </a>
+<a href="https://ieeexplore.ieee.org/document/10146373/similar#similar">IEEE Photonics Journal, vol. 15, no. 4, pp. 1-7 (2023) </a>
  
 
 
