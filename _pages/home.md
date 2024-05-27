@@ -29,6 +29,7 @@ Our lab is located in VSIM3228A, please contact us if you want to come by and ch
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
 
     <!-- Items -->
@@ -46,13 +47,16 @@ Our lab is located in VSIM3228A, please contact us if you want to come by and ch
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider4.jpg" alt="Slide 4" />
         </div> 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider5.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider5.jpg" alt="Slide 5" />
         </div>  
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider6.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider6.jpg" alt="Slide 6" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider7.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider7.jpg" alt="Slide 7" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider8.jpg" alt="Slide 8" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
