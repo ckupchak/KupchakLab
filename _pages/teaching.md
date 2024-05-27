@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ## Current
 
-Spring 2024: ELEC2501 Circuits and Signals
+Spring 2024: [ELEC2501 Circuits and Signals](https://carleton.ca/doe/wp-content/uploads/ELEC-2501-Fall-2022-Syllabus.pdf)
 
 Fall 2024: ELEC2501 Circuits and Signals
 
