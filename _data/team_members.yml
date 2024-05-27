@@ -8,12 +8,25 @@
   education3: Ph.D. Calgary
   education4: Postdoc. Assoc. Stony Brook
   education5: Postdoc. Fellow NRC & UOttawa
+
+
   
 - name: Abubaker Tareki
-  photo: rock.jpg
+  photo: Abubaker-Tareki.jpg
   info: Postdoc, started Aug 2021
   #email: 
   number_educ: 1
-  education1: Postdoc with INRS
- # education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
- # education3: B.S. East China University of Science and Technology
+  education1: B.S. Tripoli University (Libya)
+  education2: M.S. Rochester Institute of Technology
+  education3: Ph.D. University of Alabama
+  education4: Postdoc with INRS
+  
+- name: Patrick Lafferiere
+  photo: rock.jpg
+  info: Postdoc, started Aug 2023
+  #email: 
+  number_educ: 1
+  education1: B.Sc. UOttawa
+
+
+
