@@ -12,7 +12,7 @@ permalink: /
 
 You have reached the homepage of the Carleton University - Quantum Information Technology (cuQIT) group led by Professor Connor Kupchak. Our research focuses on the development of light-based quantum technologies to serve as the components of the future quantum internet.
 
-Our lab is located in VSIM3228A, please contact us if you want to come by and check it out!  Carleton University is situated on the unceded territories of the Algonquin nation. 
+Our lab is located in VSIM3228A graciously shared with the [Coil Group](https://coilgroup.ca/prof-christopher-smelser) lead by Prof. Chris Smelser, please contact us if you want to come by and check it out!  Carleton University is situated on the unceded territories of the Algonquin nation. 
 
  **We are currently looking for new PhD students and Master students to join us!** [(more info)]({{ site.url }}{{ site.baseurl }}/team) **!**
 
