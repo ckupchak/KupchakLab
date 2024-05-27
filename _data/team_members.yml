@@ -45,6 +45,33 @@
   number_educ: 1
   education1: B.Eng. Carleton
 
+- name: Will McIntyre
+  photo: rock.jpg
+  info: Undergrad 2024
+  #email: 
+  number_educ: 1
+  education1: 3rd Year Eng. Phys. Carleton
+
+- name: Tom Forsdyke
+  photo: rock.jpg
+  info: Undergrad 2024
+  #email: 
+  number_educ: 1
+  education1: 3rd Year Eng. Phys. Carleton
+
+- name: Jakob Delaney
+  photo: rock.jpg
+  info: Undergrad 2024
+  #email: 
+  number_educ: 1
+  education1: 3rd Year B.Eng. Carleton
+
+- name: Yazan Mahjoub Al Moghrabi
+  photo: rock.jpg
+  info: Undergrad 2024
+  #email: 
+  number_educ: 1
+  education1: 1st Year B.Eng. Carleton
 
 
 
