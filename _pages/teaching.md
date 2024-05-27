@@ -16,7 +16,7 @@ Fall 2024: ELEC2501 Circuits and Signals
 
 ## Past
 
-ELEC3105 Basica EM and Power: Winter 2021, 2022, 2023
+ELEC3105 Basic EM and Power: Winter 2021, 2022, 2023
 
 ELEC2501 Circuits and Signals: Fall 2020, 2021, 2022, Spring 2023
 
