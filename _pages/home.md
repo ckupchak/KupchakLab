@@ -79,4 +79,5 @@ We are grateful for funding from [NSERC](https://www.nserc-crsng.gc.ca/) and fro
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC_logo.jpg" style="width: 180px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRC_logo.jpg" style="width: 140px">
+ <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CFI-banner.png" style="width: 140px">
 </figure>
