@@ -15,7 +15,7 @@
   photo: Abubaker-Tareki.jpg
   info: Postdoc, started Aug 2021
   #email: 
-  number_educ: 1
+  number_educ: 4
   education1: B.S. Tripoli University (Libya)
   education2: M.S. Rochester Institute of Technology
   education3: Ph.D. University of Alabama
@@ -23,10 +23,12 @@
   
 - name: Patrick Lafferiere
   photo: rock.jpg
-  info: Postdoc, started Aug 2023
+  info: Postdoc, started Jan 2023
   #email: 
-  number_educ: 1
+  number_educ: 3
   education1: B.Sc. UOttawa
+  education1: M.Sc. UOttawa
+  education1: Ph.D. UOttawa
 
 
 
