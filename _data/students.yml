@@ -12,12 +12,12 @@
   photo: rock.jpg
   info: Undergraduate student
   email: LaurenceLamarcheClic@cmail.carleton.ca
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: B.Eng Carleton
 
 - name: Tawseef Patel
   photo: rock.jpg
   info: Undergraduate student
   email: tawseefpatel@cmail.carleton.ca
-  number_educ: 0
-  education1:
+  number_educ: 1
+  education1: B.Eng Carleton
